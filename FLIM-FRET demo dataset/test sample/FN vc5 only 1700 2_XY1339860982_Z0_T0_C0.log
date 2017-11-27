@@ -1,0 +1,16 @@
+Export Date-Time: 09/11/2012 17:27:40
+Capture Date-Time: 6/16/2012 16:36:24
+Z Planes: 1
+Time Points: 1
+Channels: 8
+Microns Per Pixel: 0.32
+Z Step Size Microns: 0
+IFD	X Position (um)	Y Position (um)	Z Position (um)	Elapsed Time (ms)	Channel Name	TIFF File Name
+0	22333	1945.7	2.877	0	FLI488 (X)	FN vc5 only 1700 2_XY1339860982_Z0_T0_C0.tiff
+0	22333	1945.7	2.877	0	FLI488 (Y)	FN vc5 only 1700 2_XY1339860982_Z0_T0_C1.tiff
+0	22333	1945.7	2.877	0	FLI488 (Int)	FN vc5 only 1700 2_XY1339860982_Z0_T0_C2.tiff
+0	22333	1945.7	2.877	0	FLI515 (X)	FN vc5 only 1700 2_XY1339860982_Z0_T0_C3.tiff
+0	22333	1945.7	2.877	0	FLI515 (Y)	FN vc5 only 1700 2_XY1339860982_Z0_T0_C4.tiff
+0	22333	1945.7	2.877	0	FLI515 (Int)	FN vc5 only 1700 2_XY1339860982_Z0_T0_C5.tiff
+0	22333	1945.7	2.877	0	Single Tau	FN vc5 only 1700 2_XY1339860982_Z0_T0_C6.tiff
+0	22333	1945.7	2.877	0	Single Tau hp	FN vc5 only 1700 2_XY1339860982_Z0_T0_C7.tiff

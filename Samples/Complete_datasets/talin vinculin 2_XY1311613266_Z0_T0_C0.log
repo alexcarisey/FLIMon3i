@@ -1,0 +1,13 @@
+Export Date-Time: 09/28/2011 18:27:8
+Capture Date-Time: 7/25/2011 18:01:08
+Z Planes: 1
+Time Points: 1
+Channels: 5
+Microns Per Pixel: 0.32
+Z Step Size Microns: 0
+IFD	X Position (um)	Y Position (um)	Z Position (um)	Elapsed Time (ms)	Channel Name	TIFF File Name
+0	-14569.4	3251.2	4957.68	0	TF488 (X)	talin vinculin 2_XY1311613266_Z0_T0_C0.tiff
+0	-14569.4	3251.2	4957.68	0	TF488 (Y)	talin vinculin 2_XY1311613266_Z0_T0_C1.tiff
+0	-14569.4	3251.2	4957.68	0	TF488 (Int)	talin vinculin 2_XY1311613266_Z0_T0_C2.tiff
+0	-14569.4	3251.2	4957.68	0	Single Tau	talin vinculin 2_XY1311613266_Z0_T0_C3.tiff
+0	-14569.4	3251.2	4957.68	0	Single Tau	talin vinculin 2_XY1311613266_Z0_T0_C4.tiff

@@ -1,0 +1,12 @@
+Export Date-Time: 11/6/2012 10:51:38
+Capture Date-Time: 3/8/2012 17:45:14
+Z Planes: 1
+Time Points: 1
+Channels: 4
+Microns Per Pixel: 0.32
+Z Step Size Microns: 0
+IFD	X Position (um)	Y Position (um)	Z Position (um)	Elapsed Time (ms)	Channel Name	TIFF File Name
+0	1110.7	1410.8	-424.621	0	FLI445 (X)	cfp1_XY1331228714_Z0_T0_C0.tiff
+0	1110.7	1410.8	-424.621	0	FLI445 (Y)	cfp1_XY1331228714_Z0_T0_C1.tiff
+0	1110.7	1410.8	-424.621	0	FLI445 (Int)	cfp1_XY1331228714_Z0_T0_C2.tiff
+0	1110.7	1410.8	-424.621	0	Single Tau	cfp1_XY1331228714_Z0_T0_C3.tiff

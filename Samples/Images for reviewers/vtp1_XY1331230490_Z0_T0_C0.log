@@ -1,0 +1,12 @@
+Export Date-Time: 03/12/2012 15:28:9
+Capture Date-Time: 3/8/2012 18:14:51
+Z Planes: 1
+Time Points: 1
+Channels: 4
+Microns Per Pixel: 0.32
+Z Step Size Microns: 0
+IFD	X Position (um)	Y Position (um)	Z Position (um)	Elapsed Time (ms)	Channel Name	TIFF File Name
+0	1091.1	2988.7	-399.641	0	FLI445 (X)	vtp1_XY1331230490_Z0_T0_C0.tiff
+0	1091.1	2988.7	-399.641	0	FLI445 (Y)	vtp1_XY1331230490_Z0_T0_C1.tiff
+0	1091.1	2988.7	-399.641	0	FLI445 (Int)	vtp1_XY1331230490_Z0_T0_C2.tiff
+0	1091.1	2988.7	-399.641	0	Single Tau	vtp1_XY1331230490_Z0_T0_C3.tiff

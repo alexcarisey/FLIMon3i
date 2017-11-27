@@ -1,0 +1,15 @@
+Export Date-Time: 07/3/2012 12:25:50
+Capture Date-Time: 6/28/2012 15:17:39
+Z Planes: 1
+Time Points: 1
+Channels: 7
+Microns Per Pixel: 0.32
+Z Step Size Microns: 0
+IFD	X Position (um)	Y Position (um)	Z Position (um)	Elapsed Time (ms)	Channel Name	TIFF File Name
+0	10386.3	875.5	203.363	0	FLI445 (X)	ts vint12 1_XY1340893057_Z0_T0_C0.tiff
+0	10386.3	875.5	203.363	0	FLI445 (Y)	ts vint12 1_XY1340893057_Z0_T0_C1.tiff
+0	10386.3	875.5	203.363	0	FLI445 (Int)	ts vint12 1_XY1340893057_Z0_T0_C2.tiff
+0	10386.3	875.5	203.363	0	FLI561 (X)	ts vint12 1_XY1340893057_Z0_T0_C3.tiff
+0	10386.3	875.5	203.363	0	FLI561 (Y)	ts vint12 1_XY1340893057_Z0_T0_C4.tiff
+0	10386.3	875.5	203.363	0	FLI561 (Int)	ts vint12 1_XY1340893057_Z0_T0_C5.tiff
+0	10386.3	875.5	203.363	0	Single Tau	ts vint12 1_XY1340893057_Z0_T0_C6.tiff
